@@ -10,7 +10,7 @@ Herramientas:
 -ubuntu
 -AWS
 
--Con twilio compre un numero de celular que con el que voy a mandar el mensaje 
+-Con twilio compre un numero de celular con el que voy a mandar el mensaje 
 
 -Con python me conecte a la libreria de twilio, me conecte a las distintas APIS (de donde extraigo la informacion del precio del dolar y las criptos), y 
 cree el codigo para una ves extraida y trabajada la informacion, mandar el mensaje final, con la informacion requerida, desde el numero de twilio.
